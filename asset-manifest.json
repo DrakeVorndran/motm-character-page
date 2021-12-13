@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/motm-character-page/static/css/main.a617e044.chunk.css",
+    "main.js": "/motm-character-page/static/js/main.f1f11082.chunk.js",
+    "main.js.map": "/motm-character-page/static/js/main.f1f11082.chunk.js.map",
+    "runtime-main.js": "/motm-character-page/static/js/runtime-main.37385470.js",
+    "runtime-main.js.map": "/motm-character-page/static/js/runtime-main.37385470.js.map",
+    "static/js/2.97c8dd6e.chunk.js": "/motm-character-page/static/js/2.97c8dd6e.chunk.js",
+    "static/js/2.97c8dd6e.chunk.js.map": "/motm-character-page/static/js/2.97c8dd6e.chunk.js.map",
+    "static/js/3.ada634fd.chunk.js": "/motm-character-page/static/js/3.ada634fd.chunk.js",
+    "static/js/3.ada634fd.chunk.js.map": "/motm-character-page/static/js/3.ada634fd.chunk.js.map",
+    "index.html": "/motm-character-page/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/motm-character-page/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.97c8dd6e.chunk.js.LICENSE.txt": "/motm-character-page/static/js/2.97c8dd6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/motm-character-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37385470.js",
+    "static/js/2.97c8dd6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f1f11082.chunk.js"
+  ]
+}
